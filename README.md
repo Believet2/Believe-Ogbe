@@ -4,7 +4,10 @@ I’m Believe from nigeria, a passionate and dedicated entry-level technical wri
 - 👀 I’m interested in contributing to Technical writing and documentation projects
 - 🌱 I’m currently learning Software documentation and API documentation
 - 💞️ I’m looking to improving my skills and experience in Technical writing and documentation
-- 📫 How to reach me Believeogbe87@gmail.com
+- 📫 www.linkedin.com/in/believe-ogbe
+
+- Link to linkedin www.linkedin.com/in/believe-ogbe
+
 
 Skills: https://believeogbe.hashnode.dev/the-future-of-artificial-intelligence
 
