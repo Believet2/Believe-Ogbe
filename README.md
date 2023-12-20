@@ -6,7 +6,7 @@ I’m Believe from nigeria, a passionate and dedicated entry-level technical wri
 - 💞️ I’m looking to improving my skills and experience in Technical writing and documentation
 - 📫 www.linkedin.com/in/believe-ogbe
 
-- Link to linkedin www.linkedin.com/in/believe-ogbe
+- Link to linkedin www.linkedin.com
 
 
 Skills: https://believeogbe.hashnode.dev/the-future-of-artificial-intelligence
